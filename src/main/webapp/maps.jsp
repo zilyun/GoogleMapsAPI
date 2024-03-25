@@ -8,7 +8,7 @@
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
 <style>
 .map{
-		width: 700px;
+	width: 700px;
     height: 400px;
     display: inline-block;
 }
